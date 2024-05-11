@@ -44,9 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![329134852-1ca7cebb-51e9-4eee-a68c-45f68b160247](https://github.com/JOHNSUBIK/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150279319/e09c8dc4-9ac3-48e8-a274-ee2e09449d82)
 
-### Name:
-### Register Number:
+### Name: John Paul J
+### Register Number: 212223230093
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
